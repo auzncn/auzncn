@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **auzncn/auzncn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![auzncn's GitHub stats](https://github-readme-stats.vercel.app/api?username=auzncn)](https://github.com/auzncn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auzncn&layout=compact)](https://github.com/auzncn/github-readme-stats)
+
